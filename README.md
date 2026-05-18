@@ -52,10 +52,10 @@ Git • GitHub • VS Code • Linux
 
 <ul>
   <li>🔹 AI Mini Projects</li>
-  <li>🔹 Python Automation</li>
-  <li>🔹 SQL Database Projects</li>
-  <li>🔹 DSA Practice</li>
-  <li>🔹 Robotics Learning Projects</li>
+  <li> Python Automation</li>
+  <li> SQL Database Projects</li>
+  <li> DSA Practice</li>
+  <li> Robotics Learning Projects</li>
 </ul>
 
 <hr>
@@ -71,8 +71,8 @@ Coding + Consistency + Curiosity = Growth 🚀
 <h2>🌐 Connect With Me</h2>
 
 <p>
-GitHub: your-github-link <br>
-LinkedIn: your-linkedin-link
+GitHub: https://github.com/DEEPANSHU-CODER2007 <br>
+LinkedIn: https://www.linkedin.com/in/deepanshu-bhardwaj-309273385/
 </p>
 
 <hr>
