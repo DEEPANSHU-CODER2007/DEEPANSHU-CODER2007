@@ -75,10 +75,3 @@ GitHub: https://github.com/DEEPANSHU-CODER2007 <br>
 LinkedIn: https://www.linkedin.com/in/deepanshu-bhardwaj-309273385/
 </p>
 
-<hr>
-
-<h2>✨ Quote</h2>
-
-<blockquote>
-“Dream big, build bigger.” 🚀
-</blockquote>
