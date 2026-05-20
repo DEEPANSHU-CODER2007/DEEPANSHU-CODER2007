@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Deepanshu</h1>
+<h1 align="center">Hi <bold>👋</bold> I'm Deepanshu</h1>
 
 <h3 align="center">🚀 AI • Machine Learning • Robotics Enthusiast</h3>
 
@@ -11,7 +11,6 @@
   <li>🤖 Passionate about AI, ML & Robotics</li>
   <li>💻 Exploring Python, C++, Web Development</li>
   <li>🌱 Currently learning Machine Learning & DSA</li>
-  <li>⚡ Love building innovative tech projects</li>
   <li>🎯 Goal: Become an AI/ML Engineer</li>
 </ul>
 
