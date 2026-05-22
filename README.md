@@ -7,7 +7,7 @@
 <h2>🧑‍💻 About Me</h2>
 
 <ul>
-  <li>🎓 B.Tech CSE Student</li>
+  <li>🎓 B.Tech CSE Student </li>
   <li>🤖 Passionate about AI, ML & Robotics</li>
   <li>💻 Exploring Python, C++, Web Development</li>
   <li>🌱 Currently learning Machine Learning & DSA</li>
