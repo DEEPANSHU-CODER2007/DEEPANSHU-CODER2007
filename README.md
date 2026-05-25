@@ -20,7 +20,7 @@
 
 <h3>💻 Languages</h3>
 <p>
-Python • C++ • Java • SQL • HTML • CSS • JavaScript
+Python • C++ • Java • SQL • MongoDB
 </p>
 
 <h3>🤖 AI/ML</h3>
@@ -42,7 +42,6 @@ Git • GitHub • VS Code • Linux
   <li>Machine Learning</li>
   <li>Robotics Basics</li>
   <li>Data Structures & Algorithms</li>
-  <li>Full Stack Development</li>
   <li>Prompt Engineering</li>
 </ul>
 
