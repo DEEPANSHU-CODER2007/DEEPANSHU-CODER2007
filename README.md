@@ -59,11 +59,6 @@ Git • GitHub • VS Code • Linux
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
-
-<p>
-Coding + Consistency + Curiosity = Growth 🚀
-</p>
 
 <hr>
 
