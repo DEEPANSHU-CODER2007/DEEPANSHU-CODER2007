@@ -25,7 +25,7 @@ Python • C++ • Java • SQL • MongoDB
 
 <h3>🤖 AI/ML</h3>
 <p>
-NumPy • Pandas • OpenCV • TensorFlow
+NumPy • Pandas • OpenCV • TensorFlow,PyTorch
 </p>
 
 <h3>⚙️ Tools</h3>
