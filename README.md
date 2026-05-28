@@ -4,7 +4,7 @@
 
 <hr>
 
-<h2>🧑‍💻 About Me</h2>
+<h2>🧑‍💻  About Me</h2>
 
 <ul>
   <li>🎓 B.Tech CSE Student </li>
@@ -26,11 +26,6 @@ Python • C++ • Java • SQL • MongoDB
 <h3>🤖 AI/ML</h3>
 <p>
 NumPy • Pandas • OpenCV • TensorFlow,PyTorch
-</p>
-
-<h3>⚙️ Tools</h3>
-<p>
-Git • GitHub • VS Code • Linux
 </p>
 
 <hr>
