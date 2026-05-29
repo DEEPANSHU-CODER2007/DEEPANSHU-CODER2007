@@ -57,7 +57,7 @@ NumPy • Pandas • OpenCV • TensorFlow,PyTorch
 ### 📊 **GitHub Warfare**
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEEPANSHU-CODER2007&theme=radical)  
-![DEEPANSHU'S stats](https://github-readme-stats.vercel.app/api?username=DEEPANSHU-CODER2007&show_icons=true&theme=radical)
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEEPANSHU-CODER2007)
 
