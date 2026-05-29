@@ -53,16 +53,13 @@ NumPy • Pandas • OpenCV • TensorFlow,PyTorch
 </ul>
 
 <hr>
-## 📊 GitHub Warfare
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+### 📊 **GitHub Warfare**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEEPANSHU-CODER2007&theme=radical)  
+![DEEPANSHU'S stats](https://github-readme-stats.vercel.app/api?username=DEEPANSHU-CODER2007&show_icons=true&theme=radical)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEEPANSHU-CODER2007)
 
 <hr>
 
