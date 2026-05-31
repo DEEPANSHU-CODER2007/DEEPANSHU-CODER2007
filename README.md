@@ -1,4 +1,4 @@
-<h1 align="center">Hi <bold>👋</bold> I'm Deepanshu</h1>
+<h1 align="center"> Hi <bold> 👋 </bold> I'm Deepanshu</h1>
 
 <h3 align="center">🚀 AI • Machine Learning • Robotics Enthusiast</h3>
 
