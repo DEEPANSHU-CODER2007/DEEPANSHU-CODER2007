@@ -9,7 +9,7 @@
 <ul>
   <li>🎓 B.Tech CSE Student </li>
   <li>🤖 Passionate about AI, ML & Robotics </li>
-  <li>💻 Exploring Python, C++, Web Development</li>
+  <li>💻 Exploring Python, C++,Backend development</li>
   <li>🌱 Currently learning Machine Learning & DSA</li>
   <li>🎯 Goal: Become an AI/ML Engineer</li>
 </ul>
