@@ -66,15 +66,6 @@ I focus on writing clean programs in **Python** and **C++**, improving my **DSA*
 <div align="center">
 
 <img height="172" src="https://github-readme-stats.vercel.app/api?username=DEEPANSHU-CODER2007&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=Deepanshu's%20GitHub%20Stats" alt="Deepanshu GitHub stats">
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPANSHU-CODER2007&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Deepanshu top languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=DEEPANSHU-CODER2007&theme=tokyonight&hide_border=true" alt="Deepanshu GitHub streak stats">
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPANSHU-CODER2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Deepanshu GitHub activity graph">
 
 </div>
 
@@ -116,18 +107,7 @@ Core academic focus: programming fundamentals, DBMS, OOP, DSA, software engineer
 - Email: [Deepanshubhardwaj8708@gmail.com](mailto:Deepanshubhardwaj8708@gmail.com)
 - GitHub: [DEEPANSHU-CODER2007](https://github.com/DEEPANSHU-CODER2007)
 - LinkedIn: [deepanshu-bhardwaj-309273385](https://www.linkedin.com/in/deepanshu-bhardwaj-309273385)
-- Portfolio: Coming Soon
 - Location: Haryana, India
-
-## Social Links
-
-<p>
-  <a href="mailto:Deepanshubhardwaj8708@gmail.com">Email</a> ·
-  <a href="https://github.com/DEEPANSHU-CODER2007">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/deepanshu-bhardwaj-309273385">LinkedIn</a> ·
-  <a href="https://leetcode.com/DEEPANSHU-CODER2007">LeetCode</a> ·
-  <a href="https://codeforces.com/profile/DEEPANSHU-CODER2007">Codeforces</a>
-</p>
 
 ---
 
