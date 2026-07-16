@@ -1,9 +1,10 @@
 <div align="center">
 
 <picture>
+  <!-- <img src="./avatar.png" alt="Deepanshu's Avatar" width="600" /> -->
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Deepanshu - B.Tech CSE student focused on AI, ML, Python, C++, DSA, and software engineering" src="light.svg" width="100%">
+  <img alt="Deepanshu - B.Tech CSE student focused on AI, ML, Python, C++, DSA, and software engineering" src="light.svg" width="100%",<img src="./avatar.png" alt="Deepanshu's Avatar" width="600" />>
 </picture>
 
 </div>
