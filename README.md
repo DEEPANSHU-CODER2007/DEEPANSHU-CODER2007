@@ -11,13 +11,11 @@
 <h1 align="center">Deepanshu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=B.Tech+Computer+Science+Student;C%2B%2B+and+Python+Engineer+in+Training;Algorithms+%7C+Performance+%7C+Systems+Thinking;Building+Evaluation-Driven+AI+Applications" alt="Animated typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Computer+Science+and+Engineering+Student;Aspiring+AI/ML+and+Robotics+Enthusiast;Competitive+Programmer;DSA+Learner;" alt="Animated typing introduction">
 </p>
 
 <p align="center">
   <a href="mailto:Deepanshubhardwaj8708@gmail.com"><img src="icon-email.svg" width="34" height="34" alt="Email"></a>
-  &nbsp;
-  <a href="https://github.com/DEEPANSHU-CODER2007"><img src="icon-github.svg" width="34" height="34" alt="GitHub"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/deepanshu-bhardwaj-309273385"><img src="icon-linkedin.svg" width="34" height="34" alt="LinkedIn"></a>
   &nbsp;
@@ -65,32 +63,14 @@ I use **competitive programming** to sharpen complexity analysis, correctness un
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=DEEPANSHU-CODER2007&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=Deepanshu's%20GitHub%20Stats" alt="Deepanshu GitHub stats">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DEEPANSHU-CODER2007&theme=radical)
+
+
+
+<b>![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEEPANSHU-CODER2007)</b>
 
 </div>
 
-## Contribution Snake
-
-<div align="center">
-
-![GitHub contribution snake](snake.svg)
-
-</div>
-
-## Featured Projects
-
-| Project | Engineering Scope | Status |
-| --- | --- | --- |
-| AI Evaluation and Retrieval Platform | Python AI application with retrieval, evaluation datasets, response-quality analysis, API design, and observability goals | In progress |
-| Algorithm and Performance Notebook | C++ and Python implementations with complexity notes, tests, benchmarks, and competitive-programming patterns | In progress |
-| Full Stack Delivery Platform | End-to-end application work spanning frontend, APIs, authentication, databases, testing, and containerized delivery | In progress |
-
-## Education
-
-**Lovely Professional University**  
-B.Tech Computer Science Student
-
-Core academic focus: programming fundamentals, DBMS, OOP, DSA, software engineering, operating systems, computer networks, AI, and machine learning.
 
 ## Learning Roadmap
 
@@ -108,11 +88,3 @@ Core academic focus: programming fundamentals, DBMS, OOP, DSA, software engineer
 - GitHub: [DEEPANSHU-CODER2007](https://github.com/DEEPANSHU-CODER2007)
 - LinkedIn: [deepanshu-bhardwaj-309273385](https://www.linkedin.com/in/deepanshu-bhardwaj-309273385)
 - Location: Haryana, India
-
----
-
-<div align="center">
-
-<sub>Designed with pure SVG, clean engineering intent, and a focus on steady growth.</sub>
-
-</div>
