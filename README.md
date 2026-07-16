@@ -11,7 +11,7 @@
 <h1 align="center">Deepanshu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Computer+Science+Student;AI+%26+Machine+Learning+Learner;Python+and+C%2B%2B+Programmer;DSA+%7C+OOP+%7C+DBMS;Building+AI+Applications" alt="Animated typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=B.Tech+Computer+Science+Student;C%2B%2B+and+Python+Engineer+in+Training;Algorithms+%7C+Performance+%7C+Systems+Thinking;Building+Evaluation-Driven+AI+Applications" alt="Animated typing introduction">
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@
 
 ## About Me
 
-I am **Deepanshu**, a **B.Tech Computer Science student at Lovely Professional University** from **Haryana, India**. My current work is centered on building strong computer science fundamentals while exploring practical applications of **Artificial Intelligence**, **Machine Learning**, and **software engineering**.
+I am **Deepanshu**, a **B.Tech Computer Science student at Lovely Professional University** from **Haryana, India**. I am developing as a **C++ and Python engineer** with a focus on algorithms, systems thinking, and practical AI application development.
 
-I focus on writing clean programs in **Python** and **C++**, improving my **DSA** and **competitive programming** skills, and learning how production software is structured through **OOP**, **DBMS**, **full stack development**, **system design**, and open source practices. I am especially interested in building useful AI applications that connect solid engineering with real-world problem solving.
+I use **competitive programming** to sharpen complexity analysis, correctness under constraints, edge-case reasoning, and implementation speed. Alongside this, I am building toward production-minded AI systems through APIs, databases, evaluation workflows, testing, and deployment fundamentals.
 
 ## Tech Stack
 
@@ -53,13 +53,13 @@ I focus on writing clean programs in **Python** and **C++**, improving my **DSA*
   <img src="badge-software-engineering.svg" alt="Software Engineering">
 </p>
 
-## Current Focus
+## Engineering Focus
 
-- Strengthening DSA through consistent C++ and Python practice.
-- Learning machine learning fundamentals and applying them in small AI projects.
-- Building a deeper foundation in DBMS, OOP, software engineering, and system design.
-- Exploring full stack development so AI applications can be shipped as usable products.
-- Contributing to open source with readable code, useful documentation, and respectful collaboration.
+- Building stronger C++ foundations in algorithms, data structures, memory behavior, and performance analysis.
+- Treating competitive programming as deliberate practice for correctness, complexity trade-offs, and technical execution.
+- Developing AI applications with reproducible experiments, retrieval/evaluation workflows, and clear failure analysis.
+- Learning API design, SQL databases, testing, Docker, and deployment fundamentals for end-to-end software delivery.
+- Studying operating systems, networking, concurrency, and Linux fundamentals for performance-sensitive systems.
 
 ## GitHub Stats
 
@@ -79,11 +79,11 @@ I focus on writing clean programs in **Python** and **C++**, improving my **DSA*
 
 ## Featured Projects
 
-| Project | Focus | Status |
+| Project | Engineering Scope | Status |
 | --- | --- | --- |
-| AI Application Sandbox | Python, machine learning experiments, prompt engineering, applied AI workflows | Building |
-| DSA Practice Tracker | C++, Python, problem solving notes, pattern-based revision | Building |
-| Full Stack Learning Lab | Frontend fundamentals, APIs, databases, clean project structure | Learning |
+| AI Evaluation and Retrieval Platform | Python AI application with retrieval, evaluation datasets, response-quality analysis, API design, and observability goals | In progress |
+| Algorithm and Performance Notebook | C++ and Python implementations with complexity notes, tests, benchmarks, and competitive-programming patterns | In progress |
+| Full Stack Delivery Platform | End-to-end application work spanning frontend, APIs, authentication, databases, testing, and containerized delivery | In progress |
 
 ## Education
 
@@ -97,10 +97,10 @@ Core academic focus: programming fundamentals, DBMS, OOP, DSA, software engineer
 | Stage | Topics | Outcome |
 | --- | --- | --- |
 | Foundation | C, C++, Python, Git, GitHub | Write reliable programs and manage code professionally |
-| CS Core | DSA, OOP, DBMS, OS, CN | Build strong problem-solving and system-level understanding |
-| AI/ML | Python ML stack, model evaluation, applied AI | Create useful AI experiments and small applications |
-| Full Stack | UI, APIs, databases, deployment basics | Turn ideas into usable software products |
-| Engineering Depth | System design, testing, documentation, open source | Build maintainable projects and collaborate effectively |
+| CS Core | DSA, OOP, DBMS, OS, CN | Build strong problem-solving and systems understanding |
+| Performance | Linux, concurrency, profiling, networking, benchmarking | Develop performance-aware C++ engineering skills |
+| AI/ML | Python ML stack, model evaluation, retrieval, applied AI | Build measurable and reliable AI applications |
+| Delivery | APIs, databases, testing, Docker, deployment basics | Turn ideas into maintainable software products |
 
 ## Contact
 
