@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Deepanshu - B.Tech CSE student focused on AI, ML, Python, C++, DSA, and software engineering" src="light.svg" width="100%">
+  <img alt="Deepanshu - B.Tech CSE student focused on AI, ML, Python, C++, DSA, and software engineering" src="dark.svg" width="100%">
 </picture>
 
 </div>
