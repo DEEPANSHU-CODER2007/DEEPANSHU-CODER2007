@@ -84,7 +84,6 @@ I use **competitive programming** to sharpen complexity analysis, correctness un
 
 ## Contact
 
-- Email: [Deepanshubhardwaj8708@gmail.com](mailto:Deepanshubhardwaj8708@gmail.com)
 - GitHub: [DEEPANSHU-CODER2007](https://github.com/DEEPANSHU-CODER2007)
 - LinkedIn: [deepanshu-bhardwaj-309273385](https://www.linkedin.com/in/deepanshu-bhardwaj-309273385)
 - Location: Haryana, India
