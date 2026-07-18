@@ -15,8 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Deepanshubhardwaj8708@gmail.com"><img src="icon-email.svg" width="34" height="34" alt="Email"></a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/deepanshu-bhardwaj-309273385"><img src="icon-linkedin.svg" width="34" height="34" alt="LinkedIn"></a>
   &nbsp;
   <a href="https://leetcode.com/DEEPANSHU-CODER2007"><img src="icon-leetcode.svg" width="34" height="34" alt="LeetCode"></a>
